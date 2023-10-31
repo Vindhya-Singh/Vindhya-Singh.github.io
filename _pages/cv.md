@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-Download Full CV [here]().
+Download Full CV [here](https://github.com/Vindhya-Singh/Vindhya-Singh.github.io/blob/master/files/cv_4.pdf).
 
 
 Education
